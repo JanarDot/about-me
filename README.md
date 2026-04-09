@@ -10,6 +10,7 @@ janarun
 I'm Jana. Online, I go by `JanarDot`.
 
 I build weird things that are slightly too sharp to be called normal, and slightly too polished to be called jokes.
+
 Y so serious?
 
 I'm the secret love child of Sideshow Bob and Pennywise, which explains the hairline and the business model.
