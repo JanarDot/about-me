@@ -13,9 +13,13 @@ I build weird things that are slightly too sharp to be called normal, and slight
 
 Y so serious?
 
+
+
 I'm the secret love child of Sideshow Bob and Pennywise, which explains the hairline and the business model.
 
 I make the Forbes 420 Under 69 list every year!!
+
+
 
 
 I build things at Clandestina Labs, which turns illegally good ideas into fun products.
