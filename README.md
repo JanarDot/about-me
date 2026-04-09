@@ -2,19 +2,27 @@
 
 I don't do long READMEs.
 
-I'm Jana. I build things that are slightly too sharp to be called normal and slightly too polished to be called jokes.
+I'm Jana. Online, I go by `JanarDot`.
 
-Clandestina Labs is where a lot of that work ends up.
-You can find more at [clandestinalabs.com](https://clandestinalabs.com/).
+I build things that are weird, slightly too sharp to be called normal, and slightly too polished to be called jokes.
+Why so serious?
+
+I'm the secret love child of Sideshow Bob and Pennywise, which explains the hairline and the business model.
+I make the Forbes 420 Under 69 list every year.
+
+
+I build things at Clandestina Labs, which turns illegally good ideas into fun products.
 
 - [clandestinalabs.com](https://clandestinalabs.com/)
-- [X / Twitter](https://x.com/)
+- [X / Twitter ME](https://x.com/JanarDot0)
+- [X / Twitter Clandestina Labs](https://x.com/Clandestinalabs)
+- [X / Twitter Buzz Bingo](https://x.com/buzzbingofun)
 
-If you actually want to know more, run this:
+For the full CV and picture, run this:
 
 ```bash
 pip install janarun
 janarun
 ```
 
-You'll see.
+That should tell you enough.

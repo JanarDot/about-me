@@ -10,12 +10,16 @@ readme = "README.md"
 requires-python = ">=3.8"
 dependencies = []
 authors = [
-  { name = "Jana" }
+  { name = "Jana", email = "hello@clandestinalabs.com" }
 ]
 classifiers = [
   "Environment :: Console",
   "Programming Language :: Python :: 3",
 ]
+
+[project.urls]
+Homepage = "https://github.com/JanarDot/about-me"
+Repository = "https://github.com/JanarDot/about-me"
 
 [project.scripts]
 janarun = "aboutme.main:run"
