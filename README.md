@@ -1,14 +1,20 @@
 # About Me
 
-I don't do long READMEs.
+For the full CV and picture, run this:
+
+```bash
+pip install janarun
+janarun
+```
 
 I'm Jana. Online, I go by `JanarDot`.
 
-I build things that are weird, slightly too sharp to be called normal, and slightly too polished to be called jokes.
-Why so serious?
+I build weird things that are slightly too sharp to be called normal, and slightly too polished to be called jokes.
+Y so serious?
 
 I'm the secret love child of Sideshow Bob and Pennywise, which explains the hairline and the business model.
-I make the Forbes 420 Under 69 list every year.
+
+I make the Forbes 420 Under 69 list every year!!
 
 
 I build things at Clandestina Labs, which turns illegally good ideas into fun products.
