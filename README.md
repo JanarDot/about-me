@@ -3,7 +3,7 @@
 For the full CV and picture, run this:
 
 ```bash
-pip install janarun
+python3 -m pip install --user janarun
 janarun
 ```
 
@@ -32,7 +32,7 @@ I build things at Clandestina Labs, which turns illegally good ideas into fun pr
 For the full CV and picture, run this:
 
 ```bash
-pip install janarun
+python3 -m pip install --user janarun
 janarun
 ```
 
